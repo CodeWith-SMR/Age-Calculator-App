@@ -1,6 +1,5 @@
 # Age-Calculator-App
 Design: CodeWithSMR
-# Age Calculator App
 
 Welcome to the **Age Calculator App**! This simple and user-friendly application allows you to calculate your exact age in years, months, and days based on your date of birth.
 
